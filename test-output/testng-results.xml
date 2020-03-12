@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19874" started-at="2020-03-11T15:40:44 IST" finished-at="2020-03-11T15:41:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19874" started-at="2020-03-11T15:40:44 IST" finished-at="2020-03-11T15:41:04 IST">
+      <class name="uk.co.cristalski.core.BaseClass">
+        <test-method status="PASS" signature="navigateToTheApplication()[pri:0, instance:uk.co.cristalski.core.BaseClass@6325a3ee]" name="navigateToTheApplication" duration-ms="19835" started-at="2020-03-11T15:40:44 IST" finished-at="2020-03-11T15:41:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTheApplication -->
+      </class> <!-- uk.co.cristalski.core.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
